@@ -8,4 +8,5 @@ while True:
     linea["Nombre"] = nombre
     linea["Telefono"] = Telefono
     Nombre_Telefono.append(linea)
+print("Nombres y Telefonos:\n",Nombre_Telefono)
 
